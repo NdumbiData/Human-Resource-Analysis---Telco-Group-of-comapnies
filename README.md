@@ -1,0 +1,2 @@
+# Human Resource Analysis - Telco Group of comapnies
+ ### **Project Description:**   This project leverages data analytics and machine learning to optimize workforce performance and sales operations for Tecos Group of Companies. It includes predictive sales models, workforce productivity analysis, and financial impact assessments, delivering actionable insights through interactive dashboards and reports.
